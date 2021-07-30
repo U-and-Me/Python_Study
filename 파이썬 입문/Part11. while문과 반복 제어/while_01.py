@@ -1,4 +1,4 @@
-numbers = [1,2,3]
+numbers = [1,2,3
 length = len(numbers)
 i = 0
 while 
