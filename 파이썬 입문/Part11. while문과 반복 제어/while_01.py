@@ -4,4 +4,4 @@ i = 0
 while 
 i < length:
     print(numbers[i])
-    i = i + 1
+    i = i + 1'
