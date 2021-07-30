@@ -1,4 +1,4 @@
-mine = "가위"s
+mine = "가위"
 yours = "바위"
 
 if mine == yours:
